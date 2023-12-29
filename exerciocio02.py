@@ -1,3 +1,18 @@
+#Esboço da ideia em portugol 
+
+F: real
+c: real
+
+Escreva("Qual a temperatura?  ")
+leia(F)
+c <- (F - 32) /1.8
+
+Escreva("No brasil seria:  ", c:4:1)
+#c:4:1 formata o número
+
+
+
+
 
 #Conversor de Fahrenheit para Celsius
 
